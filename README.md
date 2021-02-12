@@ -1,0 +1,1 @@
+A couple of years ago, I wrote this program that one of the job posting companies asked me to apply for. The program is a simple console application where the player can play against the machine. One of the main considerations was to demonstrate how familiar I am with Object Oriantaded Programming.
